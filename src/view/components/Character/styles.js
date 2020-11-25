@@ -61,9 +61,10 @@ const styles = StyleSheet.create({
         justifyContent: 'center'
     },
     powerContainer: {
-        marginTop: 80,
+        marginTop: 70,
         flexDirection: 'row',
         justifyContent: 'space-around',
+        
     }
 
 })
